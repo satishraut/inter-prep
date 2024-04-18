@@ -1,0 +1,12 @@
+# add defaults file for python project
+.idea/
+__pycache__/
+*.pyc
+*~
+# temporary files should be removed on exit / restart
+tempfile.*
+
+# CVS directories are generally not useful to see in a project view
+_darcs/
+*.rej
+*.orig
